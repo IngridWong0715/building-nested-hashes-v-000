@@ -27,7 +27,11 @@ def fourth_challenge
           :age => "30",
           :attidude => "confused"
         },
-        {}
+        {
+          :name => "Nurse",
+          :age => "44",
+          :attidude => "worred"
+        }
       ]
    }
 }
